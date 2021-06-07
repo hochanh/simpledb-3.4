@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/reactive-link-checker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/00-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/01-async" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/02-actorbintree" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/03-kvstore" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/04-protocols" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/05-streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-edx/06-followers" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
